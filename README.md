@@ -2,5 +2,5 @@
 
 This Repo covers topics learned throughout the year 
 
-### Chapters to Be Covered
-0. [Colour](01_colour/)
+### Chapters:
+1. [Colour](01_colour/)
